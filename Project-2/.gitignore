@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n*.sqlite3\nbackend/db.sqlite3\nbackend/media/\nvenv/\n.venv/\n.env\n.DS_Store\n.vscode/\n*.log\n
